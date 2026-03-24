@@ -1,0 +1,5 @@
+*.class
+*.semanticdb
+*.metals
+**/target/
+.bloop
